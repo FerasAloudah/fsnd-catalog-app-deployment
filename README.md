@@ -5,7 +5,9 @@ The server was deployed using [Amazon Lightsail](https://lightsail.aws.amazon.co
 
 ## Server Information
 Server IP: http://18.195.199.247/
+
 SSH Port: 2200
+
 Web Application URL: ec2-18-195-199-247.eu-central-1.compute.amazonaws.com
 
 ## Server Requirments
