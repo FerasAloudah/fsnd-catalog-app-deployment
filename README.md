@@ -4,11 +4,11 @@ You will take a baseline installation of a Linux distribution on a virtual machi
 The server was deployed using [Amazon Lightsail](https://lightsail.aws.amazon.com), and [Apache2](https://httpd.apache.org/)
 
 ## Server Information
-Server IP: http://18.195.199.247/
+Server IP: 3.121.208.40
 
 SSH Port: 2200
 
-Web Application URL: ec2-18-195-199-247.eu-central-1.compute.amazonaws.com
+Web Application URL: http://3.121.208.40/
 
 ## Server Requirments
 1. libapache2-mod-wsgi-py3.
